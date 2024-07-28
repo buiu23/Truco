@@ -1,0 +1,2 @@
+# Truco
+Jogo de truco
